@@ -50,7 +50,6 @@ Gemini：
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 |conteúdo| Faça um texto para ebook , com foco em diferenças entre java 8 e java 11, listando os as difereças que mais caracterizam com exemplos em código. Explique sempre de uma maneira simples e deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico
- |
 
 
 
@@ -59,7 +58,6 @@ ChatGPT：
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | título | Epic cyberpunk book cover, dark futuristic background, two warriors made of code facing off in a digital battlefield, glowing numbers and Java logos in the background, one representing Java 8 (classic, stable, older), the other Java 11 (sleek, modern, agile), dramatic lighting, intense contrast, bold typography space for the title "Upgrade or Die: Java 8 x Java 11", high detail, cinematic style --v 6 --ar 2:3 --style raw
- |
 
 
 
